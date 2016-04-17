@@ -10,6 +10,7 @@ namespace DelegatePractice
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
